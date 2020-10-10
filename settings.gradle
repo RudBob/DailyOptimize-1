@@ -1,3 +1,2 @@
 rootProject.name='DailyOptimize'
 include ':app'
-include ':lib'
